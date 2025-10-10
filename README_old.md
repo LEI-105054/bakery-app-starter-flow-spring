@@ -7,7 +7,7 @@
 
 `mvn spring-boot:run` or just `mvn`
 
-Wait for the application to start
+Wait for the application to start (testing)
 
 Open http://localhost:8080/ to view the application.
 
